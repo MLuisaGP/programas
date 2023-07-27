@@ -1,3 +1,5 @@
+// Mas informacion sobre implement, extends y with https://josuecruzdigital.com/diferencias-entre-extends-implements-y-with-en-dart/
+
 void main() {
   final windPlant = WindPlant(initialEnergy: 100);
   final nuclearPlant = NuclearPlant(energyLeft: 1000);
